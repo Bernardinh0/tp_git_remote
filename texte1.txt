@@ -2,4 +2,19 @@ Comment est votre blanquette
 J'aime me battre
 T'es mauvais Jack
 On va manger des chips
-Tu me rappelle George politiquement
+Tu me rappelle George politiquemen
+Habile Bill
+<<<<<<< HEAD
+
+
+
+L'abeille coule
+=======
+Le coup le plus rusé que le diable ait jamais réussi, c’est de faire croire à tout le monde qu’il n’existait pas.
+Le coup le plus rusé que le diable ait jamais réussi, c’est de faire croire à tout le monde qu’il n’existait pas.
+Le coup le plus rusé que le diable ait jamais réussi, c’est de faire croire à tout le monde qu’il n’existait pas.
+J’ai les mains faites pour l’or, et elles sont dans la merde !
+J’ai les mains faites pour l’or, et elles sont dans la merde !
+J’ai les mains faites pour l’or, et elles sont dans la merde !
+Ca va Hubert?
+>>>>>>> 88b6f560116d6dec39f82eb3400f80c16afc0212
